@@ -7,6 +7,8 @@ h1 {
   color: #ffe247;
   text-transform: uppercase;
   margin: 0 auto 20px;
+  max-width: 1400px;
+  text-align: center;
 }
 
 
@@ -28,7 +30,7 @@ p {
 
 .header {
   height: 660px;
-  background-image: url('/images/createdbybenlinn.png');
+  background-image: url('/images/markus-spiske-iar-afB0QQw-unsplash.jpg');
   /* Add your image path here */
   background-size: cover;
   /* Makes sure the image covers the whole area */
