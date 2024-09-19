@@ -37,11 +37,11 @@ p {
 
 .header {
   height: 660px;
-  background-image: url('/images/markus-spiske-iar-afB0QQw-unsplash.jpg');
+  background-image: url('/images/matrix.jpg');
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
-  position: relative;
+  /* background-repeat: no-repeat;
+  position: relative;*/
 }
 
 .header-banner {
