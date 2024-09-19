@@ -115,3 +115,11 @@ p {
   /* Adds padding inside the card text area */
   font-family: "Poppins-Medium.ttf";
 }
+
+.footer-author {
+  font-size: 24px;
+  color: #fff;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
