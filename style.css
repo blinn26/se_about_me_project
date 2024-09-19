@@ -9,6 +9,7 @@ h1 {
   margin: 0 auto 20px;
   max-width: 1400px;
   text-align: center;
+  margin: 0 auto 20px;
 }
 
 
@@ -26,6 +27,7 @@ p {
 .page {
   font-family: Poppins, Arial, Helvetica, sans-serif;
   font-weight: 500;
+  background-color: #151515;
 }
 
 .header {
@@ -71,6 +73,8 @@ p {
   justify-content: space-between;
   gap: 20px;
   /* add missing declarations */
+  max-width: 1000px;
+  margin: 40px auto;
 }
 
 /* add CSS rules for cards and their content here */
