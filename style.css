@@ -37,11 +37,11 @@ p {
 
 .header {
   height: 660px;
-  background-image: url("/images/animals.jpg");
+  background-image: url("images/animals.jpg");
   background-size: cover;
   background-position: center;
-  /* background-repeat: no-repeat;
-  position: relative;*/
+  background-repeat: no-repeat;
+  position: relative;
 }
 
 .header-banner {
